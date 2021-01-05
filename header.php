@@ -57,7 +57,7 @@
     echo <<<_GUEST
             <div class='center'>
               <a data-role='button' data-inline='true' data-icon='home'
-                data-transition='slide' href='index.php''>Home</a>
+                data-transition='slide' href='index.php'>Home</a>
               <a data-role='button' data-inline='true' data-icon='plus'
                 data-transition="slide" href='signup.php'>Sign Up</a>
               <a data-role='button' data-inline='true' data-icon='check'
