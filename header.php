@@ -43,9 +43,7 @@
     echo <<<_LOGGEDIN
             <div class='center'>
               <a data-role='button' data-inline='true' data-icon='home'
-                data-transition="slide" href='members.php?view=$user'>Home</a>
-              <a data-role='button' data-inline='true' data-icon='user'
-                data-transition="slide" href='members.php'>Members</a>
+                data-transition="slide" href='index.php'>Home</a>
               <a data-role='button' data-inline='true' data-icon='action'
                 data-transition="slide" href='logout.php'>Log out</a>
             </div>
